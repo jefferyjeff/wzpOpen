@@ -1,7 +1,5 @@
-oeieo
-<<<<<<< HEAD
+﻿oeieo
 aaa
 aaaaa
 shodong
-=======
->>>>>>> parent of aa9c8b7... a.txt中新增aaaa
+
